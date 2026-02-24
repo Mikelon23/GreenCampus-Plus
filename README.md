@@ -52,12 +52,9 @@
    ```bash
    git clone [https://github.com/Mikelon23/GreenCampus-](https://github.com/Mikelon23/GreenCampus-)
 
-
-
-
 --------------------------------------
 
-### 💡 Instrucciones para tu equipo:
+### 💡 Instrucciones para el equipo:
 
 * **Miguel:** Tú trabajarás principalmente en la carpeta `/frontend`. Crea tus componentes ahí.
 * **Trevour:** Todo tu código de Flask y lógica de base de datos va en `/backend`.
